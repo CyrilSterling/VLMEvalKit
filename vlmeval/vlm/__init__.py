@@ -104,6 +104,7 @@ from .oryx import Oryx
 from .treevgr import TreeVGR
 from .glm4_1v import GLM4_1v
 from .varco_vision import VarcoVision
+from .hunyuan_video import HunyuanVideo
 from .qtunevl import (
     QTuneVL,
     QTuneVLChat,
